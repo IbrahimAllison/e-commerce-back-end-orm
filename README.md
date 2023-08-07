@@ -14,6 +14,12 @@
 
 ## Credits/References
 
+Starter codes from: https://github.com/coding-boot-camp/fantastic-umbrella
+
+Codes and inspiration from: https://github.com/cynthiamory/E-commerce-Got-Back/tree/main
+
+Instructional team.
+
 ## Future Developments
 
 ## Link to the Walkthrough Video
